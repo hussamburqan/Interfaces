@@ -3,26 +3,22 @@
 ## Interfaces
 
 ### Login
-![Login Interface](Images/Login.jpg)
+<img src="Images/Login.jpg" width="200" alt="Login Interface"/>
 
 ### Register
-![Registration Page](Images/Register.jpg)
+<img src="Images/Register.jpg" width="200" alt="Login Interface"/>
 
 ### Profile
-![User Profile](Images/Profile.jpg)
+<img src="Images/Profile.jpg" width="200" alt="Login Interface"/>
 
 ### Products
-![Products Page](Images/Products.jpg)
+<img src="Images/Products.jpg" width="200" alt="Login Interface"/>
 
 ### Review
-![Review Page](Images/review.jpg)
-
+<img src="Images/review.jpg" width="200" alt="Login Interface"/>
 ### Scanner
-![Scanning Page](Images/Scan.jpg)
-
+<img src="Images/Scan.jpg" width="200" alt="Login Interface"/>
 ### Details Product
-![Details Product 1](Images/start.jpg)
-
-![Details Product 2](Images/mid.jpg)
-
-![Details Product 3](Images/final.jpg)
+<img src="Images/start.jpg" width="200" alt="Login Interface"/>
+<img src="Images/mid.jpg" width="200" alt="Login Interface"/>
+<img src="Images/final.jpg" width="200" alt="Login Interface"/>
